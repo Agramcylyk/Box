@@ -1,3 +1,4 @@
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=&encryption=none&headerType=&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-179.61.219.170%3A22934
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?security=&encryption=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-84.32.188.124%3A8880
 vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=&encryption=none&host=ubka.ir.igap.net.soft98.ir&headerType=http&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.206.197%3A12000
+vless://3e89d1fe-4f72-4c22-b034-648a14f7a340@45.134.12.34:443?type=tcp&security=reality&pbk=Kel8Us0-bakTJJtdJ5kpUpzdRQJK-0IZFC9PZGrKLlg&fp=chrome&sni=gmail.com&sid=54&spx=%2F&flow=xtls-rprx-vision#Mamu-mamur
