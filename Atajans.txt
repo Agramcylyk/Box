@@ -1,2 +1,2 @@
 vless://12ce1a05-d5a5-4576-b869-9d3a407ad613@45.134.12.34:443?type=tcp&security=reality&pbk=Kel8Us0-bakTJJtdJ5kpUpzdRQJK-0IZFC9PZGrKLlg&fp=chrome&sni=gmail.com&sid=54&spx=%2F&flow=xtls-rprx-vision#Mamu-Atajan
-
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@141.11.86.24:50126?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B9%F0%9F%87%BC%20TW-141.11.86.24%3A50126
