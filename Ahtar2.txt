@@ -1,5 +1,2 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?security=&encryption=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-84.32.188.124%3A8880
-vless://fb4d198a-2b37-4058-a476-0cecf234064d@194.182.91.68:59416?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-194.182.91.68%3A59416
-vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=&encryption=none&host=ubka.ir.igap.net.soft98.ir&headerType=http&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.206.197%3A12000
-vless://82a3a5b5-f87a-4fad-a45f-e45aaafbd8ac@188.34.201.88:16072?security=&encryption=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-188.34.201.88%3A16072
 vless://746aa5ef-345a-4f5f-ad76-65957d24affc@45.134.12.34:443?type=tcp&security=reality&pbk=Kel8Us0-bakTJJtdJ5kpUpzdRQJK-0IZFC9PZGrKLlg&fp=chrome&sni=gmail.com&sid=54&spx=%2F&flow=xtls-rprx-vision#Mamu-JPON
